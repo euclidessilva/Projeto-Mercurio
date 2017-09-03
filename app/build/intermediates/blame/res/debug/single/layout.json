@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_produtos.xml",
+        "source": "E:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\src\\main\\res\\layout\\activity_list_produtos.xml"
+    },
+    {
+        "merged": "E:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_falas.xml",
+        "source": "E:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\src\\main\\res\\layout\\activity_list_falas.xml"
+    }
+]

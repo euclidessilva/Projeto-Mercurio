@@ -1,0 +1,19 @@
+#Sun Sep 03 15:16:54 BRT 2017
+renamed.5=classes4.dex
+renamed.4=classes6.dex
+renamed.3=classes.dex
+renamed.2=classes5.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.5=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.11.0_f86e3b77577b1d48ec9e15cdf2ba2cbf370cb46d
+base.4=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_07b72aaebe26793f7a597ec8f117b7b496167c14
+base.3=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\converter-gson-2.2.0_8927d39a1bf3792fd25c0c26358d1d8389e82bcc
+base.2=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\retrofit-2.2.0_784b235764060ceefa9eada2de5850795c204aae
+base.1=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gson-2.7_ffa7023cee51c1b0a448fc01cab38ec50c5bea80
+base.0=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.6.0_9ce965353522923dbc8602db7f1ac981e8ed4a53
+file.5=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.11.0_f86e3b77577b1d48ec9e15cdf2ba2cbf370cb46d\\classes.dex
+file.4=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_07b72aaebe26793f7a597ec8f117b7b496167c14\\classes.dex
+file.3=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\converter-gson-2.2.0_8927d39a1bf3792fd25c0c26358d1d8389e82bcc\\classes.dex
+file.2=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\retrofit-2.2.0_784b235764060ceefa9eada2de5850795c204aae\\classes.dex
+file.1=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gson-2.7_ffa7023cee51c1b0a448fc01cab38ec50c5bea80\\classes.dex
+file.0=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.6.0_9ce965353522923dbc8602db7f1ac981e8ed4a53\\classes.dex

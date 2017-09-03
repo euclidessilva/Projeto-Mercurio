@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sun Sep 03 18:04:22 BRT 2017
+2.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ico_mic.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_list_produtos.xml
+5.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_list_falas.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+1.set=ANDROID_RESOURCE
+7.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg_gradient.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,7 @@
+#Sun Sep 03 18:04:48 BRT 2017
+base.0=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_02255bf1767c51b2f344121a51e548792f165da8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14358d0706601577e2f39e59c455cf95ca1fc100\\classes.dex
+base.1=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14358d0706601577e2f39e59c455cf95ca1fc100
+file.0=E\:\\Users\\guitr\\Desktop\\Natura\\SpeechToText1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_02255bf1767c51b2f344121a51e548792f165da8\\classes.dex

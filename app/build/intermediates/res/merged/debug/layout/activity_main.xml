@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+        <ListView
+        android:id="@+id/lista"
+        android:layout_width="wrap_content"
+        android:layout_height="156dp"
+        android:layout_alignParentBottom="true"
+        android:stackFromBottom="true"
+        android:textSize="20dp"
+        android:transcriptMode="alwaysScroll"></ListView>
+
+        <ListView
+            android:id="@+id/produtos"
+            android:layout_width="wrap_content"
+            android:layout_height="291dp"
+            android:layout_alignParentBottom="true"
+            android:stackFromBottom="true"
+            android:textSize="20dp"
+            android:transcriptMode="alwaysScroll"></ListView>
+
+
+        <ImageButton
+            android:id="@+id/btnSpeak"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:src="@drawable/ico_mic" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tap_on_mic"
+            android:textSize="15dp"
+            android:textStyle="normal"
+            android:layout_marginBottom="0dp"/>
+    </LinearLayout>
+
+</RelativeLayout>
